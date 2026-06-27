@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1768-merge-strings-alternately) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
