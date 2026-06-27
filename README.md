@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
