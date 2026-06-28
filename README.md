@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1768-merge-strings-alternately) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
