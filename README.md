@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
+| [0162-find-peak-element](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
