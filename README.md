@@ -1,3 +1,29 @@
+ 🚀 LeetCode DSA Solutions
+
+Welcome to my LeetCode journey!  
+I am solving problems daily to improve my Data Structures & Algorithms skills.
+
+---
+
+## 📌 Topics Covered
+
+- ✅ Arrays
+- ✅ Binary Search
+- ✅ Recursion
+- ✅ Backtracking
+- ✅ Dynamic Programming (DP)
+- 🔄 More coming...
+
+---
+
+## 📊 Stats
+
+- 🧠 Total Problems Solved: 60+
+- 💻 Language Used: Java
+- 📅 Daily Practice
+
+---
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
