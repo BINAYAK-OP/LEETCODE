@@ -3,7 +3,8 @@ class Solution {
         if(n==1)
         return "1";
         String s=countAndSay(n-1);
-        String ans="";
+        StringBuilder ans=new StringBuilder();
+
         int i=0,j=0;
         while(j<s.length())
         {
@@ -12,14 +13,14 @@ class Solution {
             else
             {
                 int freq=j-i;
-                ans+=freq;
-                ans+=s.charAt(i);
+                ans.append(freq);
+                ans.append(s.charAt(i));
                 i=j;
             }
         }
                 int freq=j-i;
-                ans+=freq;
-                ans+=s.charAt(i);
-                return ans;
+                ans.append(freq);
+                ans.append(s.charAt(i));
+                return ans.toString();
     }
 }
