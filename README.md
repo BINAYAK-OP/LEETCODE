@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0278-first-bad-version) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
