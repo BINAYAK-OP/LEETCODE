@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0162-find-peak-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
