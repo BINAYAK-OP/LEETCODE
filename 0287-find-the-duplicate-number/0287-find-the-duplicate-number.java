@@ -16,7 +16,7 @@ class Solution {
         }
         for(i=0;i<nums.length;i++)
         {
-            if(nums[i]!=i+1)
+            if(nums[i]!=i)
             return i;
         }
         return n;
