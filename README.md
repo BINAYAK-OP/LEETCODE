@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
