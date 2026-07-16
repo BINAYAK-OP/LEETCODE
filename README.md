@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
