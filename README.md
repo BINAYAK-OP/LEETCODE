@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0645-set-mismatch) |
+| [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2413-smallest-even-multiple) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
