@@ -5,27 +5,14 @@ class Solution {
           String q="";
            String r="";
             String s="";
-        while(i<num1.length())
-        {
-            if(num1.charAt(i)=='+')
-            {
-             p=num1.substring(0,i);
-             q=num1.substring(i+1,num1.length()-1 );
-             break;
-            }
-            i++;
-        }
-        i=1;
-          while(i<num2.length())
-        {
-            if(num2.charAt(i)=='+' )
-            {
-             r=num2.substring(0,i);
-             s=num2.substring(i+1,num2.length()-1);
-             break;
-            }
-            i++;
-        }
+            int idx=num1.indexOf('+');
+             p=num1.substring(0,idx);
+             q=num1.substring(idx+1,num1.length()-1 );
+
+             idx=num2.indexOf('+');
+             r=num2.substring(0,idx);
+             s=num2.substring(idx+1,num2.length()-1);
+             
         int real1=Integer.parseInt(p);
         int imag1=Integer.parseInt(q);
         int real2=Integer.parseInt(r);
