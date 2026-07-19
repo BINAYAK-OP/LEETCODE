@@ -7,7 +7,7 @@ class Solution {
             String s="";
         while(i<num1.length())
         {
-            if(num1.charAt(i)=='+' || num1.charAt(i)=='-')
+            if(num1.charAt(i)=='+')
             {
              p=num1.substring(0,i);
              q=num1.substring(i+1,num1.length()-1 );
@@ -18,7 +18,7 @@ class Solution {
         i=1;
           while(i<num2.length())
         {
-            if(num2.charAt(i)=='+' || num2.charAt(i)=='-')
+            if(num2.charAt(i)=='+' )
             {
              r=num2.substring(0,i);
              s=num2.substring(i+1,num2.length()-1);
