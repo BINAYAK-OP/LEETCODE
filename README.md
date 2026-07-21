@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0342-power-of-four) |
 | [0537-complex-number-multiplication](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
