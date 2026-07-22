@@ -17,6 +17,6 @@ class Solution {
                 hi=mid-1;
             }
         }
-        return hi+1;
+        return lo;
     }
 }
