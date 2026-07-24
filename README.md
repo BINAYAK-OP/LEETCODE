@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
