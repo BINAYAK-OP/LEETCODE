@@ -24,10 +24,10 @@ class Solution {
             {
                 i.next=j;
                 i=j;
-                j=j.next;
+               
             }
         }
-        i.next=null;
+        i.next=j;
         return head;
     }
 }
