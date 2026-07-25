@@ -20,6 +20,7 @@ class Solution {
                 t.next=i;
                 t=i;
                 i=i.next;
+                t.next=null;
             }
             else
             {
