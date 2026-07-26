@@ -36,7 +36,7 @@ class Solution {
     ListNode i=head;
     ListNode j=head.next;
     ListNode t=head.next;
-    while(j!=null && j.next!=null)
+    while(i.next!=null && j.next!=null)
     {
         i.next=j.next;
         i=i.next;
