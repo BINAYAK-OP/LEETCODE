@@ -15,7 +15,7 @@ class Solution {
         ListNode t1=d1;
         ListNode t2=d2;
         ListNode t=head;
-        int x=3;
+        int x=1;
         while(t!=null)
         {
             if(x%2==1)
