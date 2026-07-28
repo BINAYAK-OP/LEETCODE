@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0202-happy-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0342-power-of-four) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0206-reverse-linked-list) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
