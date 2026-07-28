@@ -28,14 +28,10 @@ class Solution {
        ListNode q=k;
        while(p!=null && q!=null)
        {
-        int sum=0;
-        sum=p.val+q.val;
+        int sum=p.val+q.val;
         p=p.next;
         q=q.next;
-        if(sum>prevsum)
-        {
-        prevsum=sum;
-        }
+        prevsum=Math.max(prevsum,sum);
        }
        return prevsum;
     }
