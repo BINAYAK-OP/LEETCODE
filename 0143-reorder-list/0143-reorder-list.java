@@ -10,7 +10,8 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        if(head == null || head.next == null) return;
+        if(head == null || head.next == null) 
+        return ;
 
         ListNode t = head;
         int n = 0, i;
