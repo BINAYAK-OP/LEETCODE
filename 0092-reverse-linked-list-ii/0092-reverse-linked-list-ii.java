@@ -48,16 +48,16 @@ class Solution {
     }
     ListNode tail1=t;
     ListNode head2=t.next;
-    for(i=0;i<right-left;i++)
+    for(i=0;i<right-left+1;i++)
     {
         t=t.next;
     }
-    ListNode tail2=t.next;
-    ListNode head3=tail2.next;
+    ListNode tail2=t;
+    ListNode head3=t.next;
     tail1.next=null;
     tail2.next=null;
-    t=reverse(head2);
-    tail1.next=t;
+    ListNode k=reverse(head2);
+    tail1.next=k;
     head2.next=head3;
     return d.next;
    }
