@@ -17,8 +17,6 @@ class Solution {
         if(b.next==null)
         return ans;
         ListNode c=b.next;
-        if(c==null)
-        return ans;
         while(c!=null)
         {
             if((b.val>a.val && b.val>c.val) || (b.val<a.val && b.val<c.val))
