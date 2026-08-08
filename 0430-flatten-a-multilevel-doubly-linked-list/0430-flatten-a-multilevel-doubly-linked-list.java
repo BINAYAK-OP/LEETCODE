@@ -10,38 +10,30 @@ class Node {
 
 class Solution {
     public Node flatten(Node head) {
-        if(head == null)
-            return head;
-
-        Node curr = head;
-
-        while(curr != null) {
-            if(curr.child == null) {
-                curr = curr.next;
-            } else {
-                Node fwd = curr.next;
-                Node c = flatten(curr.child);
-
-                curr.child = null;
-                curr.next = c;
-                if(c != null)
-                    c.prev = curr;
-
-                Node temp = c;
-
-                // ✅ FIX: check temp != null
-                while(temp != null && temp.next != null) {
-                    temp = temp.next;
-                }
-
-                // ✅ only connect if temp exists
-                if(temp != null) {
-                    temp.next = fwd;
-                    if(fwd != null)
-                        fwd.prev = temp;
-                }
-
-                curr = fwd;
+        if(head==null)
+        return head;
+        Node curr=head;
+        while(curr!=null)
+        {
+            if(curr.child==null)
+            {
+                curr=curr.next;
+            }
+            else
+            {
+                Node fwd=curr.next;
+                Node c=flatten(curr.child);
+                curr.child=null;
+                curr.next=c;
+                if(c!=null)
+                c.prev=curr;
+                Node temp=c;
+                while(temp.next!=null)
+                temp=temp.next;
+                temp.next=fwd;
+                if(fwd!=null)
+                fwd.prev=temp;
+                curr=fwd;
             }
         }
         return head;
