@@ -25,6 +25,7 @@ class Solution {
                 Node c=flatten(curr.child);
                 curr.child=null;
                 curr.next=c;
+                if(c!=null)
                 c.prev=curr;
                 Node temp=c;
                 while(temp.next!=null)
