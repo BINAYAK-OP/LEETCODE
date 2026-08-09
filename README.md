@@ -283,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
