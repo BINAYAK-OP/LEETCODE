@@ -10,14 +10,14 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
-        if(head==null)
-        return null;
         while(head!=null && head.val==val)
         {
             head=head.next;
         }
-        ListNode temp=head;
+         if(head==null)
+        return null;
         ListNode prev=head;
+        ListNode temp=head.next;
         while(temp!=null)
         {
             if(temp.val==val)
