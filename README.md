@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0537-complex-number-multiplication) |
+| [0682-baseball-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
