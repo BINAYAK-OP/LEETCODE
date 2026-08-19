@@ -7,7 +7,6 @@
  */
 struct ListNode *getIntersectionNode(struct ListNode *head1, struct ListNode *head2) {
     struct ListNode* temp=head1;
-    struct ListNode* head3=NULL;
     int len1=0,len2=0;
     while(temp!=NULL)
     {
@@ -52,5 +51,5 @@ struct ListNode *getIntersectionNode(struct ListNode *head1, struct ListNode *he
             head2=head2->next;
         }
     }
-        return head3;
+        return NULL;
     }
