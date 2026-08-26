@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
