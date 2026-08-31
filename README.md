@@ -18,7 +18,7 @@ I am solving problems daily to improve my Data Structures & Algorithms skills.
 
 ## 📊 Stats
 
-- 🧠 Total Problems Solved: 60+
+- 🧠 Total Problems Solved: 100+
 - 💻 Language Used: Java
 - 📅 Daily Practice
 
