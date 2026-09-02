@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/BINAYAK-OP/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [3875-construct-uniform-parity-array-i](https://github.com/BINAYAK-OP/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
