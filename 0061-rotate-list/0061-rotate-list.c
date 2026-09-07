@@ -15,7 +15,36 @@
     }
     return len;
 }
-struct ListNode* rotateRight(struct ListNode* head, int k) {
+// struct ListNode* rotateRight(struct ListNode* head, int k) {
+//     if(head==NULL || head->next==NULL)
+//     return head;
+//     int n=length(head);
+//     k%=n;
+//     if(k==0)
+//     return head;
+//    struct ListNode* slow=head;
+//     struct ListNode* fast=head;
+//     for(int i=0;i<k;i++)
+//     {
+//         fast=fast->next;
+//     }
+//     while(fast->next!=NULL)
+//     {
+//         slow=slow->next;
+//         fast=fast->next;
+//     }
+//     struct ListNode* a=slow->next;
+//      slow->next=NULL;
+//      struct ListNode* tail=a;
+//      while(tail->next!=NULL)
+//      {
+//         tail=tail->next;
+//      }
+//      tail->next=head;
+//      return a;
+// }
+  
+  struct ListNode* rotateRight(struct ListNode* head, int k) {
     if(head==NULL || head->next==NULL)
     return head;
     int n=length(head);
@@ -24,23 +53,17 @@ struct ListNode* rotateRight(struct ListNode* head, int k) {
     return head;
    struct ListNode* slow=head;
     struct ListNode* fast=head;
-    for(int i=0;i<k;i++)
+    for(int i=1;i<n-k;i++)
     {
         fast=fast->next;
     }
+    struct ListNode* t=fast->next;
+    fast->next=NULL;
+    fast=t;
     while(fast->next!=NULL)
     {
-        slow=slow->next;
         fast=fast->next;
     }
-    struct ListNode* a=slow->next;
-     slow->next=NULL;
-     struct ListNode* tail=a;
-     while(tail->next!=NULL)
-     {
-        tail=tail->next;
-     }
-     tail->next=head;
-     return a;
+    fast->next=head;
+    return t;
 }
-  
