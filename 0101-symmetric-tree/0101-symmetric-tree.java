@@ -13,18 +13,45 @@
  *     }
  * }
  */
+// class Solution {
+//     public boolean isSymmetric(TreeNode root) {
+//         return isMirror(root.left,root.right);
+//     }
+//     public boolean isMirror(TreeNode p,TreeNode q)
+//     {
+//         if(p==null && q==null)
+//         return true;
+//         if(p==null || q==null)
+//         return false;
+//         if(p.val!=q.val)
+//         return false;
+//         return isMirror(p.left,q.right) && isMirror(p.right,q.left);
+//     }
+// }
+
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return isMirror(root.left,root.right);
+        invert(root.left);
+        return isSame(root.left,root.right);
     }
-    public boolean isMirror(TreeNode p,TreeNode q)
+    public boolean isSame(TreeNode p,TreeNode q)
     {
-        if(p==null && q==null)
+         if(p==null && q==null)
         return true;
         if(p==null || q==null)
         return false;
         if(p.val!=q.val)
         return false;
-        return isMirror(p.left,q.right) && isMirror(p.right,q.left);
+        return isSame(p.left,q.left) && isSame(p.right,q.right);
+    }
+    public void invert(TreeNode root)
+    {
+        if(root==null)
+        return;
+        TreeNode temp=root.left;
+        root.left=root.right;
+        root.right=temp;
+        invert(root.left);
+         invert(root.right);
     }
 }
