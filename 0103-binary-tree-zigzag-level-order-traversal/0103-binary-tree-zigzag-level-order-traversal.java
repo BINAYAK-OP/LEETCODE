@@ -18,8 +18,6 @@ class Solution {
          List<List<Integer>> ans=new ArrayList<>();
         if(root==null)
         return ans;
-        // if(root.left==null && root.right==null)
-        // return ans;
         Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
         int k=0;
