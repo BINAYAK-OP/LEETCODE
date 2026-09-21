@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0537-complex-number-multiplication](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Doubly-Linked List
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
