@@ -16,8 +16,8 @@
 class Solution {
     static boolean flag;
     public boolean isBalanced(TreeNode root) {
-        // if(root==null)
-        // return true;
+        if(root==null)
+        return true;
         flag=true;
         level(root);
         // int count1=level(root.left);
