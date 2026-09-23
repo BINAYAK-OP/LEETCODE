@@ -52,7 +52,8 @@ class Solution {
         ans.add(root.val);
         else
         ans.set(level,root.val);
-        view(root.left,level+1,ans);
+         view(root.left,level+1,ans);
         view(root.right,level+1,ans);
     }
+       
 }
