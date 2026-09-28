@@ -13,21 +13,21 @@
  *     }
  * }
  */
-class Solution {
-    public void preorder(TreeNode root,ArrayList<Integer> ans) {
-        if(root==null)
-        return;
-        ans.add(root.val);
-       preorder(root.left,ans);
-        preorder(root.right,ans);
-    }
-    public List<Integer> preorderTraversal(TreeNode root)
-    {
-         ArrayList<Integer> ans = new ArrayList<>();
-         preorder(root,ans);
-         return ans;
-    }
-}
+// class Solution {
+//     public void preorder(TreeNode root,ArrayList<Integer> ans) {
+//         if(root==null)
+//         return;
+//         ans.add(root.val);
+//        preorder(root.left,ans);
+//         preorder(root.right,ans);
+//     }
+//     public List<Integer> preorderTraversal(TreeNode root)
+//     {
+//          ArrayList<Integer> ans = new ArrayList<>();
+//          preorder(root,ans);
+//          return ans;
+//     }
+// }
 
 // class Solution {
 //     public List<Integer> preorderTraversal(TreeNode root) {
@@ -44,3 +44,24 @@ class Solution {
 //         return ans;
 //     }
 // }
+
+class Solution {
+ public List<Integer> preorderTraversal(TreeNode root)
+    {
+         ArrayList<Integer> ans = new ArrayList<>();
+         Stack<TreeNode> st=new Stack<>();
+         if(root==null)
+         return ans;
+         st.push(root);
+         while(st.size()>0)
+         {
+            TreeNode top=st.pop();
+            ans.add(top.val);
+            if(top.right!=null)
+            st.push(top.right);
+            if(top.left!=null)
+            st.push(top.left);
+         }
+         return ans;
+    }
+}
