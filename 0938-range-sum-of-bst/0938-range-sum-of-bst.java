@@ -32,7 +32,6 @@
 
 class Solution {
      public int rangeSumBST(TreeNode root, int low, int high) {
-        int count=0;
         if(root==null)
         return 0;
         if(root.val<low)
