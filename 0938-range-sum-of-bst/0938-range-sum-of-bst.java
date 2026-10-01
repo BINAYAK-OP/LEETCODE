@@ -13,19 +13,34 @@
  *     }
  * }
  */
+// class Solution {
+//     public int rangeSumBST(TreeNode root, int low, int high) {
+//         return Sum(root,low,high);
+//     }
+//     public int Sum(TreeNode root, int low, int high)
+//     {
+//         if(root==null)
+//         return 0;
+//         int c=0;
+//         if(root.val>=low && root.val<=high)
+//         c+=root.val;
+//         c+=Sum(root.left,low,high);
+//         c+=Sum(root.right,low,high);
+//         return c;
+//     }
+// }
+
 class Solution {
-    public int rangeSumBST(TreeNode root, int low, int high) {
-        return Sum(root,low,high);
-    }
-    public int Sum(TreeNode root, int low, int high)
-    {
+     public int rangeSumBST(TreeNode root, int low, int high) {
+        int count=0;
         if(root==null)
         return 0;
-        int c=0;
-        if(root.val>=low && root.val<=high)
-        c+=root.val;
-        c+=Sum(root.left,low,high);
-        c+=Sum(root.right,low,high);
-        return c;
-    }
+        if(root.val<low)
+        return rangeSumBST(root.right,low,high);
+        else if(root.val>high)
+        return rangeSumBST(root.left,low,high);
+        else
+        return root.val+rangeSumBST(root.left,low,high)+rangeSumBST(root.right,low,high);
+
+     }
 }
