@@ -19,9 +19,7 @@ class Solution {
     public boolean isValidBST(TreeNode root) {
         ArrayList<Integer> arr=new ArrayList<>();
         inorder(root,arr);
-        if(t==-1)
-        return false;
-        return true;
+        return t!=-1;
     }
     void inorder(TreeNode root,ArrayList<Integer> arr)
     {
