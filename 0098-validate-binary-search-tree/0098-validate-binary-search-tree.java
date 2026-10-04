@@ -45,7 +45,7 @@ class Solution {
     }
     void inorder(TreeNode root)
     {
-        if(root==null)
+        if(root==null || !flag)
         return;
         inorder(root.left);
 
