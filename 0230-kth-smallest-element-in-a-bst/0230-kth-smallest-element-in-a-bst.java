@@ -34,20 +34,23 @@
 class Solution {
     int ans;
     int count;
+    boolean flag=true;
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList<Integer> arr=new ArrayList<>();
         count=k;
         inorder(root);
        return ans;
     }
     void inorder(TreeNode root)
     {
-        if(root==null)
+        if(root==null || !flag)
         return;
          inorder(root.left);
         count--;
         if(count==0)
+        {
         ans=root.val;
+        flag=false;
+        }
         inorder(root.right);
     }
 }
