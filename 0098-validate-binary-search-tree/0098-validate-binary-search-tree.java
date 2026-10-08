@@ -35,25 +35,68 @@
 // }
 
 
-class Solution {
-    int prev;
-    boolean first=true;
-    boolean flag=true;
-    public boolean isValidBST(TreeNode root) {
-        inorder(root);
-        return flag;
-    }
-    void inorder(TreeNode root)
+// class Solution {
+//     int prev;
+//     boolean first=true;
+//     boolean flag=true;
+//     public boolean isValidBST(TreeNode root) {
+//         inorder(root);
+//         return flag;
+//     }
+//     void inorder(TreeNode root)
+//     {
+//         if(root==null || !flag)
+//         return;
+//         inorder(root.left);
+
+//         if(!first && prev>=root.val)
+//         flag=false;
+
+//         prev=root.val;
+//         first=false;
+//         inorder(root.right);
+//     }
+// }
+
+// 
+
+//using morris traversal
+class Solution
+{
+    public boolean isValidBST(TreeNode root)
     {
-        if(root==null || !flag)
-        return;
-        inorder(root.left);
+        TreeNode curr=root;
+        long prev = Long.MIN_VALUE;
+        while(curr!=null)
+        {
+            if(curr.left!=null)
+            {
+            TreeNode pred=curr.left;
+            while(pred.right!=null && pred.right!=curr)
+            pred=pred.right;
+            if(pred.right==null)
+            {
+            pred.right=curr;
+            curr=curr.left;
+            }
+            else
+            {
+                pred.right=null;
+                if(curr.val<=prev)
+                return false;
+                prev=curr.val;
+                curr=curr.right;
+            }
+            }
+            else
+            {
+              if(curr.val<=prev)
+                return false;
+                prev=curr.val;
+                curr=curr.right;
+            }
 
-        if(!first && prev>=root.val)
-        flag=false;
-
-        prev=root.val;
-        first=false;
-        inorder(root.right);
+        }
+        return true;
     }
 }
