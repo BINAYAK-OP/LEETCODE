@@ -20,7 +20,8 @@ class Triplet implements Comparable<Triplet>
     }
     public int compareTo(Triplet t)
     {
-        return this.dist-t.dist;
+        // return this.dist-t.dist; or
+         return Integer.compare(this.dist, t.dist);
     }
 
 }
