@@ -9,10 +9,10 @@ import java.util.PriorityQueue;
 
 class Triplet implements Comparable<Triplet>
 {
-    int dist;
+    long dist;
     int x;
     int y;
-    Triplet(int dist,int x,int y)
+    Triplet(long dist,int x,int y)
     {
         this.dist=dist;
         this.x=x;
@@ -21,7 +21,7 @@ class Triplet implements Comparable<Triplet>
     public int compareTo(Triplet t)
     {
         // return this.dist-t.dist; or
-         return Integer.compare(this.dist, t.dist);
+         return Long.compare(this.dist, t.dist);
     }
 
 }
@@ -34,7 +34,7 @@ class Solution
         {
             int x=point[0];
             int y=point[1];
-            int dist=x*x+y*y;
+            long dist=(long)x*x+(long)y*y;
             pq.add(new Triplet(dist,x,y));
             if(pq.size()>k)
                 pq.remove();
