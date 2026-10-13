@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0537-complex-number-multiplication](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/2235-add-two-integers) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1046-last-stone-weight) |
 ## Depth-First Search
 |  |
@@ -492,4 +497,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
