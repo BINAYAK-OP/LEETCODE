@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0682-baseball-game) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1046-last-stone-weight) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0658-find-k-closest-elements) |
 ## Quicksort
 |  |
@@ -539,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
