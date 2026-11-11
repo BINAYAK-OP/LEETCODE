@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1539-kth-missing-positive-number](https://github.com/BINAYAK-OP/LEETCODE/tree/master/1539-kth-missing-positive-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/BINAYAK-OP/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Hash Function
 |  |
 | ------- |
